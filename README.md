@@ -18,4 +18,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [轉生成為Flutter工程師 — 02 | 依賴注入到底是什麼(下)？](https://toddliao-dev.medium.com/%E8%BD%89%E7%94%9F%E6%88%90%E7%82%BAflutter%E5%B7%A5%E7%A8%8B%E5%B8%AB-02-%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC-%E4%B8%8B-1bd27e8fe902?source=rss-b0c58f49ae18------2)
+- [轉生成為Flutter工程師 - 01 |  依賴注入到底是什麼(上)？](https://toddliao-dev.medium.com/%E8%BD%89%E7%94%9F%E6%88%90%E7%82%BAflutter%E5%B7%A5%E7%A8%8B%E5%B8%AB-01-%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC-%E4%B8%8A-74161c933989?source=rss-b0c58f49ae18------2)
+- [2021的年中回顧](https://toddliao-dev.medium.com/2021%E7%9A%84%E5%B9%B4%E4%B8%AD%E5%9B%9E%E9%A1%A7-16e40b0edc99?source=rss-b0c58f49ae18------2)
+- [在2020年成為一個前端工程師是怎麼樣的體驗？](https://toddliao-dev.medium.com/%E5%9C%A82020%E5%B9%B4%E6%88%90%E7%82%BA%E4%B8%80%E5%80%8B%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%98%AF%E6%80%8E%E9%BA%BC%E6%A8%A3%E7%9A%84%E9%AB%94%E9%A9%97-56aee610c26a?source=rss-b0c58f49ae18------2)
 <!-- BLOG-POST-LIST:END -->
