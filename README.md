@@ -18,9 +18,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2022年中回顧](https://toddliao-dev.medium.com/2022%E5%B9%B4%E4%B8%AD%E5%9B%9E%E9%A1%A7-8dfc69cea6cd?source=rss-b0c58f49ae18------2)
+- [人生苦短，我用react hook form](https://toddliao-dev.medium.com/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD-%E6%88%91%E7%94%A8react-hook-form-e40c67e75f21?source=rss-b0c58f49ae18------2)
 - [2021回顧-自己也算是脫離junior了吧？](https://toddliao-dev.medium.com/2021%E5%9B%9E%E9%A1%A7-%E8%87%AA%E5%B7%B1%E4%B9%9F%E7%AE%97%E6%98%AF%E8%84%AB%E9%9B%A2junior%E4%BA%86%E5%90%A7-3292c2687aef?source=rss-b0c58f49ae18------2)
 - [React Hook Form 踩坑紀錄-我沒使用過 forwardRef 欸](https://toddliao-dev.medium.com/react-hook-form-%E8%B8%A9%E5%9D%91%E7%B4%80%E9%8C%84-%E6%88%91%E6%B2%92%E4%BD%BF%E7%94%A8%E9%81%8E-forwardref-%E6%AC%B8-6b60b545768b?source=rss-b0c58f49ae18------2)
 - [轉生成為Flutter工程師 — 03 | Dart 基本介紹](https://toddliao-dev.medium.com/%E8%BD%89%E7%94%9F%E6%88%90%E7%82%BAflutter%E5%B7%A5%E7%A8%8B%E5%B8%AB-03-dart-%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%B4%B9-4cd8478a32d1?source=rss-b0c58f49ae18------2)
-- [轉生成為Flutter工程師 — 02 | 依賴注入到底是什麼&lpar;下&rpar;？](https://toddliao-dev.medium.com/%E8%BD%89%E7%94%9F%E6%88%90%E7%82%BAflutter%E5%B7%A5%E7%A8%8B%E5%B8%AB-02-%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC-%E4%B8%8B-1bd27e8fe902?source=rss-b0c58f49ae18------2)
-- [轉生成為Flutter工程師 - 01 |  依賴注入到底是什麼&lpar;上&rpar;？](https://toddliao-dev.medium.com/%E8%BD%89%E7%94%9F%E6%88%90%E7%82%BAflutter%E5%B7%A5%E7%A8%8B%E5%B8%AB-01-%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC-%E4%B8%8A-74161c933989?source=rss-b0c58f49ae18------2)
 <!-- BLOG-POST-LIST:END -->
