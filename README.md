@@ -1,9 +1,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxc469469&hide=java,css,html&langs_count=6&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="zxc469469" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toddLiao469469&hide=java,css,html&langs_count=6&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="toddLiao469469" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zxc469469&show_icons=true&theme=dracula&locale=en" alt="zxc469469" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toddLiao469469&show_icons=true&theme=dracula&locale=en" alt="toddLiao469469" /></p>
 
 ## 關於我
  哈囉我是Todd，目前在noodoe擔任前端工程師，主要開發經驗為web前後端及Flutter App。
