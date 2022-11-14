@@ -18,9 +18,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust 筆記 - 2 | reference &amp; borrowing](https://toddliao-dev.medium.com/rust-%E7%AD%86%E8%A8%98-2-reference-borrowing-991c6f6a66e7?source=rss-b0c58f49ae18------2)
 - [Rust 筆記 - 1 | ownership](https://toddliao-dev.medium.com/rust-%E7%AD%86%E8%A8%98-1-ownership-757ec778ea04?source=rss-b0c58f49ae18------2)
 - [2022年中回顧](https://toddliao-dev.medium.com/2022%E5%B9%B4%E4%B8%AD%E5%9B%9E%E9%A1%A7-8dfc69cea6cd?source=rss-b0c58f49ae18------2)
 - [人生苦短，我用react hook form](https://toddliao-dev.medium.com/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD-%E6%88%91%E7%94%A8react-hook-form-e40c67e75f21?source=rss-b0c58f49ae18------2)
 - [2021回顧-自己也算是脫離junior了吧？](https://toddliao-dev.medium.com/2021%E5%9B%9E%E9%A1%A7-%E8%87%AA%E5%B7%B1%E4%B9%9F%E7%AE%97%E6%98%AF%E8%84%AB%E9%9B%A2junior%E4%BA%86%E5%90%A7-3292c2687aef?source=rss-b0c58f49ae18------2)
-- [React Hook Form 踩坑紀錄-我沒使用過 forwardRef 欸](https://toddliao-dev.medium.com/react-hook-form-%E8%B8%A9%E5%9D%91%E7%B4%80%E9%8C%84-%E6%88%91%E6%B2%92%E4%BD%BF%E7%94%A8%E9%81%8E-forwardref-%E6%AC%B8-6b60b545768b?source=rss-b0c58f49ae18------2)
 <!-- BLOG-POST-LIST:END -->
