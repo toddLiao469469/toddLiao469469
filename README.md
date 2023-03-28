@@ -18,9 +18,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [2022回顧 — 算是充實的一年…吧？](https://toddliao-dev.medium.com/2022%E5%9B%9E%E9%A1%A7-%E7%AE%97%E6%98%AF%E5%85%85%E5%AF%A6%E7%9A%84%E4%B8%80%E5%B9%B4-%E5%90%A7-720ec001b62e?source=rss-b0c58f49ae18------2)
-- [Rust 筆記 - 2 | reference &amp; borrowing](https://toddliao-dev.medium.com/rust-%E7%AD%86%E8%A8%98-2-reference-borrowing-991c6f6a66e7?source=rss-b0c58f49ae18------2)
-- [Rust 筆記 - 1 | ownership](https://toddliao-dev.medium.com/rust-%E7%AD%86%E8%A8%98-1-ownership-757ec778ea04?source=rss-b0c58f49ae18------2)
-- [2022年中回顧](https://toddliao-dev.medium.com/2022%E5%B9%B4%E4%B8%AD%E5%9B%9E%E9%A1%A7-8dfc69cea6cd?source=rss-b0c58f49ae18------2)
-- [人生苦短，我用react hook form](https://toddliao-dev.medium.com/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD-%E6%88%91%E7%94%A8react-hook-form-e40c67e75f21?source=rss-b0c58f49ae18------2)
+- [關於我](https://svelte-qwer.vercel.app/about)
+- [2022回顧 — 算是充實的一年…吧？](https://svelte-qwer.vercel.app/2023-01-11)
+- [Rust 筆記 - 2 | reference &amp; borrowing](https://svelte-qwer.vercel.app/2022-11-14)
+- [Rust 筆記 - 1 | ownership](https://svelte-qwer.vercel.app/2022-10-27)
+- [2022年中回顧](https://svelte-qwer.vercel.app/2022-07-22)
 <!-- BLOG-POST-LIST:END -->
