@@ -18,9 +18,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [關於我](https://svelte-qwer.vercel.app/about)
-- [2022回顧 — 算是充實的一年…吧？](https://svelte-qwer.vercel.app/2023-01-11)
-- [Rust 筆記 - 2 | reference &amp; borrowing](https://svelte-qwer.vercel.app/2022-11-14)
-- [Rust 筆記 - 1 | ownership](https://svelte-qwer.vercel.app/2022-10-27)
-- [2022年中回顧](https://svelte-qwer.vercel.app/2022-07-22)
+- [2022回顧 — 算是充實的一年…吧？](https://todd-dev-blog.vercel.app/2023-01-11)
+- [Rust 筆記 - 2 | reference &amp; borrowing](https://todd-dev-blog.vercel.app/2022-11-14)
+- [Rust 筆記 - 1 | ownership](https://todd-dev-blog.vercel.app/2022-10-27)
+- [2022年中回顧](https://todd-dev-blog.vercel.app/2022-07-22)
+- [人生苦短，我用React Hook Form](https://todd-dev-blog.vercel.app/2022-05-24)
 <!-- BLOG-POST-LIST:END -->
