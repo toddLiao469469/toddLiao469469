@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.toddliao.dev/atom.xml"
+          feed_list: "https://todd-dev-log-toddliao469469.vercel.app/atom.xml"
