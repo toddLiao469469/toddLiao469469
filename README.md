@@ -45,9 +45,9 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on web developme
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [從 notion 到 obsidian 再回到 notion 最後再加上 heptabase](https://toddliao.dev/2023-10-24)
 - [Rust 筆記 - 3 | struct &amp; enum](https://toddliao.dev/2023-08-25)
 - [medium -&gt; 自架blog的小小心得](https://toddliao.dev/2023-04-07)
 - [2022回顧 — 算是充實的一年…吧？](https://toddliao.dev/2023-01-11)
 - [Rust 筆記 - 2 | reference &amp; borrowing](https://toddliao.dev/2022-11-14)
-- [Rust 筆記 - 1 | ownership](https://toddliao.dev/2022-10-27)
 <!-- BLOG-POST-LIST:END -->
