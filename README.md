@@ -70,9 +70,9 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on frontend deve
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 回顧](https://toddliao.dev/2023-12-29)
 - [Haskell 從入門到放棄 - 前言與開發環境設定](https://toddliao.dev/2023-12-21)
 - [從 notion 到 obsidian 再回到 notion 最後再加上 heptabase](https://toddliao.dev/2023-10-24)
 - [Rust 筆記 - 3 | struct &amp; enum](https://toddliao.dev/2023-08-25)
 - [medium -&gt; 自架blog的小小心得](https://toddliao.dev/2023-04-07)
-- [2022回顧 — 算是充實的一年…吧？](https://toddliao.dev/2023-01-11)
 <!-- BLOG-POST-LIST:END -->
