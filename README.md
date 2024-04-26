@@ -70,7 +70,7 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on frontend deve
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Haskell - Haskell 從入門到放棄 - 認識 Haskell](https://toddliao.dev/2024-04-26)
+- [Haskell 從入門到放棄 - 認識 Haskell](https://toddliao.dev/2024-04-26)
 - [2023 回顧](https://toddliao.dev/2023-12-29)
 - [Haskell 從入門到放棄 - 前言與開發環境設定](https://toddliao.dev/2023-12-21)
 - [從 notion 到 obsidian 再回到 notion 最後再加上 heptabase](https://toddliao.dev/2023-10-24)
