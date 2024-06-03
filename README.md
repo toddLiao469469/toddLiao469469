@@ -8,7 +8,7 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on frontend deve
 - Svelte, a new frontend framework that I'm bullish on because of its simplicity, speed, and efficiency.
 
 ## 🌐 Socials:
-[![Toddliao.dev](https://img.shields.io/badge/toddLiao.dev-60ff44?style=for-the-badge&logo=Rss&logoColor=black)](https://toddliao.dev/)
+[![Toddliao.dev](https://img.shields.io/badge/toddLiao.dev-60ff44?style=for-the-badge&logo=Rss&logoColor=black)](https://blog.toddliao.dev/)
 
 # 💻 Tech Stack:
 ## FE
