@@ -58,7 +58,8 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on frontend deve
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=toddliao469469&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toddliao469469&theme=synthwave&hide=java,css,html&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toddliao469469&theme=synthwave&hide=css,scss,html&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=toddliao469469&limit=3&theme=radical&count=3&combine_all_yearly_contributions=true)
