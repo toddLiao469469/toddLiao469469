@@ -4,6 +4,7 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on frontend deve
 ## 📚 Currently Learning:
 
 - Haskell, a functional programming language that I'm interested in because of its concise, elegant, and efficient features.
+- Rust, a systems programming language that I admire for its strong memory safety and performance.
 - Svelte, a new frontend framework that I'm bullish on because of its simplicity, speed, and efficiency.
 
 ## 🌐 Socials:
