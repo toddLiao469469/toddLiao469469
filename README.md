@@ -71,9 +71,9 @@ Hi, I'm Todd, a software engineer at Ionex Energy, with a focus on frontend deve
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Haskell 從入門到放棄 - pattern matching](https://blog.toddliao.dev/haskell-pattern-matching)
 - [2024 回顧](https://blog.toddliao.dev/2024-review)
 - [2024 11/23-11/27 東京獨旅流水帳](https://blog.toddliao.dev/tokyo-2024-11)
 - [為什麼我們從 React 換到 Svelte](https://blog.toddliao.dev/react-to-svelte)
 - [Haskell 從入門到放棄 - 型別系統與一點點 Typeclass](https://blog.toddliao.dev/haskell-type-system)
-- [Haskell 從入門到放棄 - List](https://blog.toddliao.dev/haskell-list)
 <!-- BLOG-POST-LIST:END -->
