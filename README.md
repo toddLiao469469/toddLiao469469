@@ -42,6 +42,11 @@ I care about **DX, performance, and maintainable architecture** — I enjoy buil
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 回顧](https://blog.toddliao.dev/posts/2025-year-in-review/)
+- [Haskell 從入門到放棄 - Typeclass](https://blog.toddliao.dev/posts/haskell-typeclass/)
+- [Haskell 從入門到放棄 - Algebraic Data Types](https://blog.toddliao.dev/posts/haskell-adts/)
+- [成為前&lpar;?&rpar;端工程師的 5 週年回顧](https://blog.toddliao.dev/posts/5-years-in-frontend/)
+- [Haskell 從入門到放棄 - pattern matching](https://blog.toddliao.dev/posts/haskell-pattern-matching/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
